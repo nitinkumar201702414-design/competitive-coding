@@ -17,4 +17,4 @@ class Solution:
         return moves
 
 result=Solution()
-print(result.towerOfHanoi(5, 1, 3, 2))
+print(result.towerOfHanoi(5, 1, 3, 2))  
